@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>ProxyPattern</name>
-=======
-	<name>java-design-patterns</name>
->>>>>>> 9526dbb64faecb4a52126fcf3b31fc7e3c153617
+	<name>FacadePattern</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -18,9 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> 9526dbb64faecb4a52126fcf3b31fc7e3c153617
 	</natures>
 </projectDescription>
