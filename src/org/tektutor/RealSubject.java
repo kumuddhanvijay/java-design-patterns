@@ -4,7 +4,7 @@ public class RealSubject implements Subject {
 
 	@Override
 	public void request() {
-		System.out.println("Edited (Kitas-ctrl):Real Subject Request");
+		System.out.println("Editedd (Kitas-ctrl):Real Subject Request");
 	}
 	
 }
