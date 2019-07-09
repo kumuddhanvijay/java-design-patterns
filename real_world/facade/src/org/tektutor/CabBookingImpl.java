@@ -10,7 +10,7 @@ public class CabBookingImpl implements CabBooking {
 	
 
 	private void cabArrived() {
-		System.out.println("TEAM 1 says BYE to team3 ");
+		System.out.println(" TEAM 1 says BYE to team3 ");
 		welcomeMessage();
 	}
 	
