@@ -8,6 +8,7 @@ public class Facade {
 	Facade() {
 	    this.subsystemA = new SubSystemA();
 	    this.subsystemB = new SubSystemB();
+
 	    this.subsystemC = new SubSystemC();
 	 }
 	  
