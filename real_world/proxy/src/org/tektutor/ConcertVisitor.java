@@ -15,7 +15,7 @@ public class ConcertVisitor {
 			inputValue.close();
 			System.out.println("Visitor has come to concert");
 			try {
-				concertGuard.allowVisitor(ticketId);
+				concertGuard.allowVisitor(ticketId);	//Allows the visitor only if ticket id is matched
 			} catch (TypeMismatch e) {
 				e.printStackTrace();
 			}

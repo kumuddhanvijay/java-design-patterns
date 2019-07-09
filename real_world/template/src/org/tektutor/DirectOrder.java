@@ -1,5 +1,5 @@
 package org.tektutor;
-
+//Template creates many functions
 public class DirectOrder extends PosterTemplate {
 
 	@Override
