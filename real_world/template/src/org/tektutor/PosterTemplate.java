@@ -19,7 +19,7 @@ abstract class PosterTemplate {
   
     public abstract void doPrint(); 
   
-    public final void processOrder(boolean isPoster) 
+    public final int processOrder(boolean isPoster) 
     { 
         doSelect(); 
         doPayment(); 
@@ -27,5 +27,7 @@ abstract class PosterTemplate {
         	createPoster(); 
         } 
         doPrint(); 
+        
+        return 0;
     } 
 }	
